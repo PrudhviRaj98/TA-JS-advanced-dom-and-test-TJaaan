@@ -9,3 +9,4 @@
 - You can use the image given below for help to understand.
 
 ![](./terms.png)
+prudhvi raj
