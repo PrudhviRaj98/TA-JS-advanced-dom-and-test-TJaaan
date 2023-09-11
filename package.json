@@ -1,0 +1,18 @@
+{
+  "name": "ta-js-advanced-dom-and-test-tjaaan",
+  "version": "1.0.0",
+  "description": "TA-JS-advanced-dom-and-test-TJaaan",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.5.0"
+  }
+}
